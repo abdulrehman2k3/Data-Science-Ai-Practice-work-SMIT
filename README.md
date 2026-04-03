@@ -1,1 +1,1 @@
-# Data-Science-Ai-Practice-work-SMIT
+# Data-Science & Ai Practice work SMIT (Assignments)
